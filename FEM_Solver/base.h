@@ -1,0 +1,13 @@
+#pragma once
+#include <iostream>
+#include <assert.h>
+#include <Windows.h>
+#include "solver.h"
+#include "utils.h"
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <SDL_ttf.h>
+#include "textbuffer.h"
+#include "framerate.h"
+#include <list>
